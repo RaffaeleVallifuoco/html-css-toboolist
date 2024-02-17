@@ -9,6 +9,9 @@
 ol, ul, menu {
     list-style: none;
 }
+span {
+    display: inline-block;
+}
 
 /* header */
 .page_header {
@@ -21,6 +24,25 @@ ol, ul, menu {
     margin: 0 auto;
 }
 
+.container .header {
+    margin-bottom: 40px;
+}
+
+.content .add_task{
+    font-size: 20px;
+    padding: 5px;
+    background-color: rgb(128, 176, 230);
+}
+.content .section{
+    margin-bottom: 20px;
+}
+
+li{
+    margin-bottom: 20px;
+}
 li .item {
     margin-right: 15px;
 }
+
+strong  {
+ font-size: 20px;
