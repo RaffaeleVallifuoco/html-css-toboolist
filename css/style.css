@@ -1,5 +1,9 @@
 /* font */
-
+.kanit-regular {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
 /* reset */
 *{
     margin:0;
