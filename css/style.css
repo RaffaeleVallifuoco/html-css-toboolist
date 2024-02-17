@@ -1,0 +1,26 @@
+/* reset */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+ol, ul, menu {
+    list-style: none;
+}
+
+/* header */
+.page_header {
+    margin-bottom: 20px;
+}
+
+/* main */
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+li .item {
+    margin-right: 15px;
+}
