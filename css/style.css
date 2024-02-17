@@ -1,3 +1,4 @@
+/* font */
 .roboto-regular {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -37,10 +38,22 @@ span {
 .content .add_task{
     font-size: 20px;
     padding: 5px;
-    background-color: rgb(128, 176, 230);
+    background-color: rgb(158, 203, 254);
+    border: 1px solid rgba(162, 162, 162, 0.3);
+    border-radius: 10%;
 }
+
+.content .add_section {
+        font-size: 20px;
+            padding: 5px;
+            background-color: rgb(255, 255, 255);
+            border: 1px solid rgba(162, 162, 162, 0.4);
+            border-radius: 10%;
+}
+
 .content .section{
     margin-bottom: 20px;
+   
 }
 
 li{
@@ -51,5 +64,53 @@ li .item {
 }
 
 strong  {
- font-size: 20px;
+ font-size: 30px;
+}
+
+.editorial {
+    padding: 6px;
+    border-radius: 10%;
+    background-color: rgb(15, 151, 205);
+    color: white;
+    font-style: bold;
+}
+
+.goals {
+    padding: 6px;
+        border-radius: 10%;
+        background-color: rgb(164, 21, 230);
+        color: white;
+        font-style: bold;
+}
+
+.recruiting {
+    padding: 6px;
+    border-radius: 10%;
+    background-color: rgb(4, 218, 171);
+    color: white;
+    font-style: bold;
+}
+
+.mobile {
+    padding: 6px;
+    border-radius: 10%;
+    background-color: rgba(255, 170, 0, 0.842);
+    color: white;
+    font-style: bold;
+}
+
+.website {
+    padding: 6px;
+    border-radius: 10%;
+    background-color: rgb(244, 50, 50);
+    color: white;
+    font-style: bold;
+}
+
+.sales {
+    padding: 6px;
+    border-radius: 10%;
+    background-color: rgb(2, 136, 40);
+    color: white;
+    font-style: bold;
 }
