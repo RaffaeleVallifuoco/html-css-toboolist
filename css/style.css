@@ -1,6 +1,6 @@
 /* font */
-.kanit-regular {
-    font-family: "Kanit", sans-serif;
+body {
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -15,7 +15,7 @@
 ol, ul, menu {
     list-style: none;
 }
-span {
+span.category {
     display: inline-block;
 }
 
@@ -66,7 +66,7 @@ strong  {
  font-size: 30px;
 }
 
-.editorial {
+.section .editorial {
     text-align: center;
     padding: 8px;
     border-radius: 10%;
