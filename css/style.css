@@ -66,7 +66,7 @@ strong  {
  font-size: 30px;
 }
 
-.section .editorial {
+.list_section .editorial {
     text-align: center;
     padding: 8px;
     border-radius: 10%;
@@ -75,7 +75,7 @@ strong  {
     font-style: bold;
 }
 
-.goals {
+.list_section .goals {
     padding: 6px;
         border-radius: 10%;
         background-color: rgb(164, 21, 230);
@@ -83,7 +83,7 @@ strong  {
         font-style: bold;
 }
 
-.recruiting {
+.list_section .recruiting {
     padding: 6px;
     border-radius: 10%;
     background-color: rgb(4, 218, 171);
@@ -91,7 +91,7 @@ strong  {
     font-style: bold;
 }
 
-.mobile {
+.list_section .mobile {
     padding: 6px;
     border-radius: 10%;
     background-color: rgba(255, 170, 0, 0.842);
@@ -99,7 +99,7 @@ strong  {
     font-style: bold;
 }
 
-.website {
+.list_section .website {
     padding: 6px;
     border-radius: 10%;
     background-color: rgb(244, 50, 50);
@@ -107,7 +107,7 @@ strong  {
     font-style: bold;
 }
 
-.sales {
+.list_section .sales {
     padding: 6px;
     border-radius: 10%;
     background-color: rgb(2, 136, 40);
@@ -115,7 +115,7 @@ strong  {
     font-style: bold;
 }
 
-.ceck {
+ .list_section .ceck {
     width: 30px;
     height: 30px;
     padding: 2px;
@@ -127,7 +127,7 @@ strong  {
     border-right: 5px;
 }
 
-.denied {
+.list_section .denied {
     width: 30px;
     height: 30px;
     padding: 2px;
